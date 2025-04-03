@@ -6,6 +6,12 @@ class Program
     {
         Console.WriteLine("teste");
         Console.WriteLine("teste dois");
+        Console.WriteLine("teste");
+        Console.WriteLine("teste dois");
+        Console.WriteLine("teste");
+        Console.WriteLine("teste dois");
+        Console.WriteLine("teste");
+        Console.WriteLine("teste dois");
 
     }
 }
